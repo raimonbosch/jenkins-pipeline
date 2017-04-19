@@ -15,5 +15,5 @@ Create your pipeline using the Jenkinsfile as groovy script and invoke your shel
 - pipeline
 
 References:
-https://jenkins.io/doc/book/pipeline/jenkinsfile/
-https://hub.docker.com/_/jenkins/
+- https://jenkins.io/doc/book/pipeline/jenkinsfile/
+- https://hub.docker.com/_/jenkins/
